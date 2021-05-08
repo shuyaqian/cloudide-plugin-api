@@ -13,3 +13,6 @@
 ### Interfaces
 
 * [Thenable](../interfaces/_index_d_.thenable.md)
+
+### Built-in Commands
+* [Commands](../built-in-commands.md)
